@@ -151,14 +151,3 @@ Because the reported results are based on Monte Carlo simulation, changing the s
 
 Depending on the selected values of (n), (c), and (\rho), a simulation run may take approximately **5 seconds to 5 minutes** on the computational environment described above.
 
-## Citation
-
-If you use these materials, please cite the associated paper:
-
-> Chenglong Li, Xun Xiao, and Piao Chen, "Statistical Monitoring of Censored Lifetime Data: Insights into Two Special Alarm Phenomena," *IISE Transactions*, [year/volume/pages to be added], [DOI to be added].
-
-The final bibliographic information and DOI can be updated here after publication.
-
-## Contact
-
-For questions regarding the code or reproducibility materials, please contact the authors of the paper.
